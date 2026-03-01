@@ -7,17 +7,17 @@
 <br/>
 
 ## 👨‍💻 About Me
-- [cite_start]🎓 Currently studying **Computer Engineering** at METU (Expected 2028) with a high GPA (3.71/4.00)[cite: 36, 37].
-- [cite_start]💡 Actively building cross-platform applications, integrating AI workflows, and managing cloud architectures[cite: 42, 48].
-- [cite_start]🤝 Vice President & Web Developer for the METU Energy Society, combining technical skills with leadership[cite: 53, 54, 55].
-- [cite_start]📫 How to reach me: **[ekementunahan@gmail.com](mailto:ekementunahan@gmail.com)** [cite: 40]
-- [cite_start]🌐 Portfolio & Details: **[My Personal Web Page](http://users.metu.edu.tr/e273234)** [cite: 40]
+- 🎓 Currently studying **Computer Engineering** at METU (Expected 2028) with a high GPA (3.71/4.00).
+- 💡 Actively building cross-platform applications, integrating AI workflows, and managing cloud architectures.
+- 🤝 Vice President & Web Developer for the METU Energy Society, combining technical skills with leadership.
+- 📫 How to reach me: **[ekementunahan@gmail.com](mailto:ekementunahan@gmail.com)**
+- 🌐 Portfolio & Details: **[My Personal Web Page](http://users.metu.edu.tr/e273234)**
 
 <br/>
 
 ## 🛠️ Tech Stack & Tools
 
-**Programming Languages & Core:**
+**Programming & Core:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,27 +42,27 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 [Movie Discovery Platform]
-[cite_start]A comprehensive full-stack mobile platform built with **Flutter** and **Supabase**[cite: 41]. 
-- [cite_start]Integrated the **TMDB API** for dynamic data fetching[cite: 41].
-- [cite_start]Engineered an AI chatbot and mood-based recommendation engine for personalized UX[cite: 42].
+### 🎬 [Movie Discovery Platform](https://github.com/Tunahanekemen) A comprehensive full-stack mobile platform built with **Flutter** and **Supabase**. 
+- Integrated the **TMDB API** for dynamic data fetching.
+- Engineered an AI chatbot and mood-based recommendation engine for personalized UX.
 
-### 🎲 [Probability-Based Game Simulation]
-[cite_start]A cloud-ready statistical simulation engine[cite: 44, 45].
-- [cite_start]Transformed complex **Python** logic into a responsive **HTML/JS** web interface[cite: 45].
-- [cite_start]Managed state distributions, RNG (Random Number Generation) algorithms, and seamless UI updates[cite: 46].
+### 🎲 [Probability-Based Game Simulation](https://github.com/Tunahanekemen/probability-simulation-engine) 
+A cloud-ready statistical simulation engine. **[Live Demo](https://tunahanekemen.github.io/probability-simulation-engine/)** - Transformed complex **Python** logic into a responsive **HTML/JS** web interface.
+- Managed state distributions, RNG (Random Number Generation) algorithms, and seamless UI updates.
 
-### 📱 [GM-Archive]
-[cite_start]A cross-platform mobile archiving utility using **Flutter** and **Firebase**[cite: 47, 48].
-- [cite_start]Utilized AI tools to optimize codebase structure and development speed[cite: 48].
-- [cite_start]Centralized multimedia content (YouTube, Instagram, X) into a responsive, unified dashboard[cite: 49].
+### 📱 [GM-Archive](https://github.com/Tunahanekemen/GM-Archive)
+A cross-platform mobile archiving utility using **Flutter** and **Firebase**.
+- Utilized AI tools to optimize codebase structure and development speed.
+- Centralized multimedia content (YouTube, Instagram, X) into a responsive, unified dashboard.
+
+*(For additional projects, feel free to explore my [Repositories](https://github.com/Tunahanekemen?tab=repositories).*
 
 <br/>
 
 ## 💼 Leadership & Experience
 
-* [cite_start]**Vice President & Web Developer @ METU Energy Society:** Orchestrating events, managing social media, and currently maintaining the official society website ([Link](https://energysociety.ncc.metu.edu.tr))[cite: 53, 54, 55].
-* [cite_start]**Social Media Manager @ SME:** Cultivated community engagement and directed digital outreach strategies for a full academic year[cite: 56].
+* **Vice President & Web Developer @ METU Energy Society:** Orchestrating events, managing social media, and currently maintaining the official society website ([Link](https://energysociety.ncc.metu.edu.tr)).
+* **Social Media Manager @ SME:** Cultivated community engagement and directed digital outreach strategies for a full academic year.
 
 <br/>
 
