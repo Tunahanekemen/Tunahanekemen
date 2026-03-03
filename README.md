@@ -55,9 +55,10 @@ A cross-platform mobile archiving utility using **Flutter** and **Firebase**.
 - Utilized AI tools to optimize codebase structure and development speed.
 - Centralized multimedia content (YouTube, Instagram, X) into a responsive, unified dashboard.
 
-###  [Memory Game](https://github.com/Tunahanekemen/B12-game) 
-A Basic memory game on web  **[Live Demo](https://tunahanekemen.github.io/B12-game/)** - developed using HTML, Java and CSS.
-- Arrays, Java and Css logic.
+### 🧠 [Memory Game](https://github.com/Tunahanekemen/B12-game) 
+A basic memory game on the web, designed to understand how to build interactive systems. **[Live Demo](https://tunahanekemen.github.io/B12-game/)**
+- Developed using **HTML**, **CSS**, and **JavaScript**.
+- Focused on mastering **Arrays**, logic building, and interactive web elements.
 
 
 *(For additional projects, feel free to explore my [Repositories](https://github.com/Tunahanekemen?tab=repositories).*
